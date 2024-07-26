@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "autoflush",
+        "conint",
+        "DOTENV",
+        "fastapi",
+        "isouter",
+        "ondelete",
+        "passlib",
+        "sqlalchemy"
+    ]
+}
